@@ -3,7 +3,8 @@
     "allow": [
       "Bash(mkdir:*)",
       "Bash(cp:*)",
-      "Bash(true)"
+      "Bash(true)",
+      "WebFetch(domain:github.com)"
     ],
     "deny": [],
     "ask": [],
